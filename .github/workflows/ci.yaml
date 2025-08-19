@@ -30,6 +30,6 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest _test.py
+              pytest tests/
           
  
