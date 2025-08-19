@@ -4,7 +4,6 @@ import pytest
 def square(n):
     return n ** 2
 
-
 # Function to test cube
 def cube(n):
     return n ** 3
